@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ayam-el-taba3/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Secure Licensing Rights for Ayam El Taba3](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Music Licensing for Ayam El Taba3](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
