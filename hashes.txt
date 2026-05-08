@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ayam El Taba3
+
+This log tracks the cryptographic history and versioning for the song **Ayam El Taba3** (ayam-el-taba3).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T01:13:30.797114 | `v1` | `3c53aab4e7a079fdb91f9ab7082cf2a47fc8312e81b850dd3571710fd83199cf` | `d6b0fa8b691181533b2fc47ce79a6fd72a398ed27dbc20566ff2a6f9ec1b2b51` | `2026-05-09_ayam-el-taba3-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
